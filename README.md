@@ -51,20 +51,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,nodejs,express,postgres,mysql,mongodb,python,c,cpp,arduino,git,github,linux,matlab,firebase&perline=10" />
 </p>
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jaisurya-R&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisurya-R&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Jaisurya-R&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
